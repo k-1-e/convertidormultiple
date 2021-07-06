@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="unidades">
+            <item>milimetros</item>
+            <item>Centimetros</item>
+            <item>metros</item>
+            <item>kilometros</item>
+        </string-array>
+    </resources>
